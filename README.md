@@ -123,4 +123,4 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 MIT License
 
-Copyright (c) 2017 [Edvins Antonovs](https://twitter.com/edvinsantonovs).
+Copyright (c) 2018 [Edvins Antonovs](https://twitter.com/edvinsantonovs).
